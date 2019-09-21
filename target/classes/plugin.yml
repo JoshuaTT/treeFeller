@@ -1,0 +1,6 @@
+name: TreeFeller
+version: 1.0
+main: me.joshuatoye.treeFeller.TreeFeller
+api-version: 1.13
+authors: [JoshuaToye]
+description: First Plugin
